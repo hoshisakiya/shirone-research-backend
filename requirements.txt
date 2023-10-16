@@ -1,1 +1,2 @@
-websockets==11.0.3
+flask-socketio
+flask_cors
